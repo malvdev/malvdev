@@ -1,14 +1,5 @@
 # Hey 👋, I'm Sergey!
 
-<a href="https://twitter.com/malvdev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://github.com/malvdev/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-
-## About Me
-
-I'm **Sergey Malkov**, a **developer** living in **Russia, RU**.
-
-In Developing I'm very interested in Agile Software Development,  Accessibility UI, Clean Architecture.
-
 ## Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
